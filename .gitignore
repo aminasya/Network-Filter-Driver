@@ -1,2 +1,15 @@
 KMDF Driver1/x64/*
 KMDF Driver1.VC.VC.opendb
+/KMDF Driver1.VC.db
+/ARM/Debug/KMDFDriver1.inf
+/KMDF Driver1/ARM/Debug/KMDF Driver1.log
+/KMDF Driver1/ARM/Debug/KMDF Driver1.tlog/CL.command.1.tlog
+/KMDF Driver1/ARM/Debug/KMDF Driver1.tlog/KMDF Driver1.lastbuildstate
+/KMDF Driver1/ARM/Debug/KMDF Driver1.tlog/stampinf.command.1.tlog
+/KMDF Driver1/ARM/Debug/KMDF Driver1.tlog/stampinf.read.1.tlog
+/KMDF Driver1/ARM/Debug/KMDF Driver1.tlog/stampinf.write.1.tlog
+/KMDF Driver1/ARM/Debug/KMDF Driver1.tlog/unsuccessfulbuild
+/KMDF Driver1/ARM/Debug/KMDFDriver1.inf
+/KMDF Driver1/ARM/Debug/vc140.pdb
+/.vs/KMDF Driver1/v14/.suo
+/KMDF Driver1/ARM/Debug/KMDFDriver1.Build.CppClean.log
